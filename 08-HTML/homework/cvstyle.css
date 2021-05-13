@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(239, 247, 204);
+}
+#photoImg {
+    width: 300px;
+    height: 500px;
+
+}
+#hobbiePic {
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+#me {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
